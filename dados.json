@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "titulo":"Reacher",
+        "categoria":"Série",
+        "plataforma":"Amazon Prime Video",
+        "nota":9,
+        "status":"Assistido",
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Yut6vkpL-Pg1rg0f5wi13VF2_03C6f-GlN7u-A2LVw&s=10"
+    },
+    {
+         "id":2,
+        "titulo":"Bob Esponja",
+        "categoria":"Série",
+        "plataforma":"Hbo Max",
+        "nota":9,
+        "status":"Assistido",
+        "capa":"https://upload.wikimedia.org/wikipedia/commons/7/78/SpongeBob_SquarePants_with_2023_Nickelodeon_Logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+        {
+            "id":3,
+            "titulo":"Meu Malvado Favorito 2",
+            "categoria":"Filme",
+            "plataforma":"Globoplay",
+            "nota":9.5,
+            "status":"Assistido",
+            "capa":"https://m.media-amazon.com/images/S/pv-target-images/8a6501f438a3ebc7826a8354b458f3d51b71d4ba08c798edbf8137827bf8296c.jpg"
+        },
+        {
+            "id":4,
+            "titulo":"Um Tira da Pesada 4: Axel Foley",
+            "categoria":"Filme",
+            "plataforma":"Netflix",
+            "nota":8,
+            "status":"Assistido",
+            "capa":"https://i0.wp.com/javiu.blog/wp-content/uploads/2024/07/umtira4.jpg?fit=400%2C600&ssl=1"
+        },
+    {
+        "id":5,
+            "titulo":"Euro Truck Simulator 2",
+            "categoria":"Jogo",
+            "plataforma":"PC/Console",
+            "nota":8.5,
+            "status":"Abaixado",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHPkMPS6hCNiQkiY_IskypK9S-sVhUpLCprZlBmL9T8zAYmznxMEqOpp3o&s=10"
+    },
+    {
+        "id":6,
+            "titulo":"Farming Simulator 2022",
+            "categoria":"Jogo",
+            "plataforma":"PC/Console",
+            "nota":9,
+            "status":"Abaixado",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlR4UfoEkpZT2RDMXC8wSIVL3Oz9kzdPtw7HB4oJvKHyB2X4cL5K1FVxQ&s=10"
+    }
+]
